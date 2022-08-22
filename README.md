@@ -6,7 +6,7 @@ Projeto de um website responsivo, que é conectado com um banco de dados MongoDB
 
 [Link para o código Back-end](https://github.com/santanna-thiago/infarm-api/tree/main)
 ___
-**Tecnologias e Conhecimentos adquiridos**:
+**Tecnologias usadas / Conhecimentos adquiridos**:
 
 - JavaScript
 - Node.Js
