@@ -16,7 +16,7 @@ ___
 - HTML
 - CSS
 ___
-O Projeto foi desenvolvido em menos de 1 semana, em conjunto com um grupo de 4 pessoas, para o desafio de programação **(HACKATON)** de um Bootcamp da StartSe - Tech Academy.
+O Projeto foi desenvolvido em conjunto com um grupo de 4 pessoas, para o desafio de programação **(HACKATON)** de um Bootcamp da StartSe - Tech Academy.
 ___
 Screenshots:
 ![main](https://raw.githubusercontent.com/Elipontes/Infarm-website/main/screenshots/main.png)
